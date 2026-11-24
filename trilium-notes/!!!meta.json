@@ -1,0 +1,2045 @@
+{
+	"formatVersion": 2,
+	"appVersion": "0.107.0",
+	"files": [
+		{
+			"isClone": false,
+			"noteId": "RdDl7e9QaAxS",
+			"notePath": [
+				"RdDl7e9QaAxS"
+			],
+			"title": "Сеть колледжа — расширенный пример",
+			"notePosition": 10,
+			"prefix": null,
+			"isExpanded": true,
+			"type": "text",
+			"mime": "text/html",
+			"attributes": [],
+			"format": "html",
+			"dataFileName": "Сеть колледжа — расширенный пример.html",
+			"attachments": [],
+			"dirFileName": "Сеть колледжа — расширенный пример",
+			"children": [
+				{
+					"isClone": false,
+					"noteId": "UqII0Ba62hcs",
+					"notePath": [
+						"RdDl7e9QaAxS",
+						"UqII0Ba62hcs"
+					],
+					"title": "Шкафы",
+					"notePosition": 10,
+					"prefix": null,
+					"isExpanded": true,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "Шкафы.html",
+					"attachments": [],
+					"dirFileName": "Шкафы",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "Yh22h7ugFdSh",
+							"notePath": [
+								"RdDl7e9QaAxS",
+								"UqII0Ba62hcs",
+								"Yh22h7ugFdSh"
+							],
+							"title": "R1",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "includeNoteLink",
+									"value": "SVKhR9kxVP0t",
+									"isInheritable": false,
+									"position": 40
+								},
+								{
+									"type": "label",
+									"name": "language",
+									"value": "ru",
+									"isInheritable": false,
+									"position": 50
+								}
+							],
+							"format": "html",
+							"dataFileName": "R1.html",
+							"attachments": [],
+							"dirFileName": "R1",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "q0kw47lHqrrQ",
+									"notePath": [
+										"RdDl7e9QaAxS",
+										"UqII0Ba62hcs",
+										"Yh22h7ugFdSh",
+										"q0kw47lHqrrQ"
+									],
+									"title": "R1-MT-C1",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "R1-MT-C1.html",
+									"attachments": [],
+									"dirFileName": "R1-MT-C1",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "5MsDdGQv3SK8",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"Yh22h7ugFdSh",
+												"q0kw47lHqrrQ",
+												"5MsDdGQv3SK8"
+											],
+											"title": "R1-01",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R1-01.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "E1KeZwc3UJoq",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"Yh22h7ugFdSh",
+												"q0kw47lHqrrQ",
+												"E1KeZwc3UJoq"
+											],
+											"title": "R1-02",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R1-02.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "H8k1UepovLcG",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"Yh22h7ugFdSh",
+												"q0kw47lHqrrQ",
+												"H8k1UepovLcG"
+											],
+											"title": "R1-03",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R1-03.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "6hpwqBRiKesW",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"Yh22h7ugFdSh",
+												"q0kw47lHqrrQ",
+												"6hpwqBRiKesW"
+											],
+											"title": "R1-04",
+											"notePosition": 40,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R1-04.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "5GYt7OVnSqMR",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"Yh22h7ugFdSh",
+												"q0kw47lHqrrQ",
+												"5GYt7OVnSqMR"
+											],
+											"title": "R1-05",
+											"notePosition": 50,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R1-05.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "NuXThZalNmSV",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"Yh22h7ugFdSh",
+												"q0kw47lHqrrQ",
+												"NuXThZalNmSV"
+											],
+											"title": "R1-06",
+											"notePosition": 60,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R1-06.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "WTYVv3rJuRVR",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"Yh22h7ugFdSh",
+												"q0kw47lHqrrQ",
+												"WTYVv3rJuRVR"
+											],
+											"title": "R1-07",
+											"notePosition": 70,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R1-07.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "IrbCGJ7lLQ0R",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"Yh22h7ugFdSh",
+												"q0kw47lHqrrQ",
+												"IrbCGJ7lLQ0R"
+											],
+											"title": "R1-08",
+											"notePosition": 80,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R1-08.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "eiTHSLmry2so",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"Yh22h7ugFdSh",
+												"q0kw47lHqrrQ",
+												"eiTHSLmry2so"
+											],
+											"title": "R1-09",
+											"notePosition": 90,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R1-09.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "whNQmftDI9Cd",
+									"notePath": [
+										"RdDl7e9QaAxS",
+										"UqII0Ba62hcs",
+										"Yh22h7ugFdSh",
+										"whNQmftDI9Cd"
+									],
+									"title": "R1-PP1",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "R1-PP1.html",
+									"attachments": []
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "6iyU7MobUYaw",
+							"notePath": [
+								"RdDl7e9QaAxS",
+								"UqII0Ba62hcs",
+								"6iyU7MobUYaw"
+							],
+							"title": "R2",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "R2.html",
+							"attachments": [],
+							"dirFileName": "R2",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "cSUPzCWsuIYs",
+									"notePath": [
+										"RdDl7e9QaAxS",
+										"UqII0Ba62hcs",
+										"6iyU7MobUYaw",
+										"cSUPzCWsuIYs"
+									],
+									"title": "R2-MT-C1",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "R2-MT-C1.html",
+									"attachments": [],
+									"dirFileName": "R2-MT-C1",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "P37jztjm00V5",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"6iyU7MobUYaw",
+												"cSUPzCWsuIYs",
+												"P37jztjm00V5"
+											],
+											"title": "R2-01",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R2-01.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "CgVRlceXXORf",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"6iyU7MobUYaw",
+												"cSUPzCWsuIYs",
+												"CgVRlceXXORf"
+											],
+											"title": "R2-02",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R2-02.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "nGQNt91dWcqx",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"6iyU7MobUYaw",
+												"cSUPzCWsuIYs",
+												"nGQNt91dWcqx"
+											],
+											"title": "R2-03",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R2-03.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "TWz1PdPhMWBs",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"6iyU7MobUYaw",
+												"cSUPzCWsuIYs",
+												"TWz1PdPhMWBs"
+											],
+											"title": "R2-04",
+											"notePosition": 40,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R2-04.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "sd1slKFlJls7",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"6iyU7MobUYaw",
+												"cSUPzCWsuIYs",
+												"sd1slKFlJls7"
+											],
+											"title": "R2-05",
+											"notePosition": 50,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R2-05.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "zfcRhqE9PXtW",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"6iyU7MobUYaw",
+												"cSUPzCWsuIYs",
+												"zfcRhqE9PXtW"
+											],
+											"title": "R2-06",
+											"notePosition": 60,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R2-06.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "lm0hrkYJ9Cw4",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"6iyU7MobUYaw",
+												"cSUPzCWsuIYs",
+												"lm0hrkYJ9Cw4"
+											],
+											"title": "R2-07",
+											"notePosition": 70,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R2-07.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "xG2qCDmpRODY",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"6iyU7MobUYaw",
+												"cSUPzCWsuIYs",
+												"xG2qCDmpRODY"
+											],
+											"title": "R2-08",
+											"notePosition": 80,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R2-08.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "IaOdJZyYtnSc",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"6iyU7MobUYaw",
+												"cSUPzCWsuIYs",
+												"IaOdJZyYtnSc"
+											],
+											"title": "R2-09",
+											"notePosition": 90,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R2-09.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "pWSqT1npIc2N",
+									"notePath": [
+										"RdDl7e9QaAxS",
+										"UqII0Ba62hcs",
+										"6iyU7MobUYaw",
+										"pWSqT1npIc2N"
+									],
+									"title": "R2-PP1",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "R2-PP1.html",
+									"attachments": []
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "fNxZJZATsOLl",
+							"notePath": [
+								"RdDl7e9QaAxS",
+								"UqII0Ba62hcs",
+								"fNxZJZATsOLl"
+							],
+							"title": "R3",
+							"notePosition": 30,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "R3.html",
+							"attachments": [],
+							"dirFileName": "R3",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "8M22ePP5Qfy0",
+									"notePath": [
+										"RdDl7e9QaAxS",
+										"UqII0Ba62hcs",
+										"fNxZJZATsOLl",
+										"8M22ePP5Qfy0"
+									],
+									"title": "R3-MT-C1",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "R3-MT-C1.html",
+									"attachments": [],
+									"dirFileName": "R3-MT-C1",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "Nt2zjHtRO381",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"fNxZJZATsOLl",
+												"8M22ePP5Qfy0",
+												"Nt2zjHtRO381"
+											],
+											"title": "R3-01",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R3-01.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "rgBOVQmEeWde",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"fNxZJZATsOLl",
+												"8M22ePP5Qfy0",
+												"rgBOVQmEeWde"
+											],
+											"title": "R3-02",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R3-02.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "4A9rDJkpWZF5",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"fNxZJZATsOLl",
+												"8M22ePP5Qfy0",
+												"4A9rDJkpWZF5"
+											],
+											"title": "R3-03",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R3-03.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "QGJRqts9nJtQ",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"fNxZJZATsOLl",
+												"8M22ePP5Qfy0",
+												"QGJRqts9nJtQ"
+											],
+											"title": "R3-04",
+											"notePosition": 40,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R3-04.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "FizbTGSp3dxQ",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"fNxZJZATsOLl",
+												"8M22ePP5Qfy0",
+												"FizbTGSp3dxQ"
+											],
+											"title": "R3-05",
+											"notePosition": 50,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R3-05.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "YIiYbvL0ESWK",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"fNxZJZATsOLl",
+												"8M22ePP5Qfy0",
+												"YIiYbvL0ESWK"
+											],
+											"title": "R3-06",
+											"notePosition": 60,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R3-06.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "St4ulqNAeEhp",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"fNxZJZATsOLl",
+												"8M22ePP5Qfy0",
+												"St4ulqNAeEhp"
+											],
+											"title": "R3-07",
+											"notePosition": 70,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R3-07.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "3XnkBSov7zvp",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"fNxZJZATsOLl",
+												"8M22ePP5Qfy0",
+												"3XnkBSov7zvp"
+											],
+											"title": "R3-08",
+											"notePosition": 80,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R3-08.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "eGt29ZTd32va",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"fNxZJZATsOLl",
+												"8M22ePP5Qfy0",
+												"eGt29ZTd32va"
+											],
+											"title": "R3-09",
+											"notePosition": 90,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R3-09.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "0gmxBkcbH7AH",
+									"notePath": [
+										"RdDl7e9QaAxS",
+										"UqII0Ba62hcs",
+										"fNxZJZATsOLl",
+										"0gmxBkcbH7AH"
+									],
+									"title": "R3-PP1",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "R3-PP1.html",
+									"attachments": []
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "KzSynKlncUkl",
+							"notePath": [
+								"RdDl7e9QaAxS",
+								"UqII0Ba62hcs",
+								"KzSynKlncUkl"
+							],
+							"title": "R4",
+							"notePosition": 40,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "R4.html",
+							"attachments": [],
+							"dirFileName": "R4",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "upB9ed0fFm2r",
+									"notePath": [
+										"RdDl7e9QaAxS",
+										"UqII0Ba62hcs",
+										"KzSynKlncUkl",
+										"upB9ed0fFm2r"
+									],
+									"title": "R4-MT-C1",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "R4-MT-C1.html",
+									"attachments": [],
+									"dirFileName": "R4-MT-C1",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "le8ZtNKHkS4z",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"KzSynKlncUkl",
+												"upB9ed0fFm2r",
+												"le8ZtNKHkS4z"
+											],
+											"title": "R4-01",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R4-01.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "RriUDg7Xyp9Q",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"KzSynKlncUkl",
+												"upB9ed0fFm2r",
+												"RriUDg7Xyp9Q"
+											],
+											"title": "R4-02",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R4-02.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "ODmSxSsgjrcC",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"KzSynKlncUkl",
+												"upB9ed0fFm2r",
+												"ODmSxSsgjrcC"
+											],
+											"title": "R4-03",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R4-03.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "fUYHxCC1lBob",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"KzSynKlncUkl",
+												"upB9ed0fFm2r",
+												"fUYHxCC1lBob"
+											],
+											"title": "R4-04",
+											"notePosition": 40,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R4-04.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "QWRLnDSUtzqH",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"KzSynKlncUkl",
+												"upB9ed0fFm2r",
+												"QWRLnDSUtzqH"
+											],
+											"title": "R4-05",
+											"notePosition": 50,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R4-05.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "FvOmoBHHAFag",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"KzSynKlncUkl",
+												"upB9ed0fFm2r",
+												"FvOmoBHHAFag"
+											],
+											"title": "R4-06",
+											"notePosition": 60,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R4-06.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "FhjjG54PPKYJ",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"KzSynKlncUkl",
+												"upB9ed0fFm2r",
+												"FhjjG54PPKYJ"
+											],
+											"title": "R4-07",
+											"notePosition": 70,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R4-07.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "xv2ma6epcqza",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"KzSynKlncUkl",
+												"upB9ed0fFm2r",
+												"xv2ma6epcqza"
+											],
+											"title": "R4-08",
+											"notePosition": 80,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R4-08.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "4buXggCz45Um",
+											"notePath": [
+												"RdDl7e9QaAxS",
+												"UqII0Ba62hcs",
+												"KzSynKlncUkl",
+												"upB9ed0fFm2r",
+												"4buXggCz45Um"
+											],
+											"title": "R4-09",
+											"notePosition": 90,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [],
+											"format": "html",
+											"dataFileName": "R4-09.html",
+											"attachments": []
+										}
+									]
+								},
+								{
+									"isClone": false,
+									"noteId": "AeMyeMBl1VSm",
+									"notePath": [
+										"RdDl7e9QaAxS",
+										"UqII0Ba62hcs",
+										"KzSynKlncUkl",
+										"AeMyeMBl1VSm"
+									],
+									"title": "R4-PP1",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "R4-PP1.html",
+									"attachments": []
+								}
+							]
+						}
+					]
+				},
+				{
+					"isClone": false,
+					"noteId": "NXhQpMcrzXrV",
+					"notePath": [
+						"RdDl7e9QaAxS",
+						"NXhQpMcrzXrV"
+					],
+					"title": "Кабинеты",
+					"notePosition": 20,
+					"prefix": null,
+					"isExpanded": true,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "Кабинеты.html",
+					"attachments": [],
+					"dirFileName": "Кабинеты",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "VUFIK0DRAVIy",
+							"notePath": [
+								"RdDl7e9QaAxS",
+								"NXhQpMcrzXrV",
+								"VUFIK0DRAVIy"
+							],
+							"title": "1 этаж",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": true,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "1 этаж.html",
+							"attachments": [],
+							"dirFileName": "1 этаж",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "SVKhR9kxVP0t",
+									"notePath": [
+										"RdDl7e9QaAxS",
+										"NXhQpMcrzXrV",
+										"VUFIK0DRAVIy",
+										"SVKhR9kxVP0t"
+									],
+									"title": "Кабинет 101",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Кабинет 101.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "Kns5teXHB4Gp",
+									"notePath": [
+										"RdDl7e9QaAxS",
+										"NXhQpMcrzXrV",
+										"VUFIK0DRAVIy",
+										"Kns5teXHB4Gp"
+									],
+									"title": "Кабинет 102",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Кабинет 102.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "XimlhzYZkBNf",
+									"notePath": [
+										"RdDl7e9QaAxS",
+										"NXhQpMcrzXrV",
+										"VUFIK0DRAVIy",
+										"XimlhzYZkBNf"
+									],
+									"title": "Кабинет 103",
+									"notePosition": 30,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Кабинет 103.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "vxdvteVx6569",
+									"notePath": [
+										"RdDl7e9QaAxS",
+										"NXhQpMcrzXrV",
+										"VUFIK0DRAVIy",
+										"vxdvteVx6569"
+									],
+									"title": "Кабинет 104",
+									"notePosition": 40,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Кабинет 104.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "rIrlbzt86cfx",
+									"notePath": [
+										"RdDl7e9QaAxS",
+										"NXhQpMcrzXrV",
+										"VUFIK0DRAVIy",
+										"rIrlbzt86cfx"
+									],
+									"title": "Кабинет 105",
+									"notePosition": 50,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Кабинет 105.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "vWPGLlp4xrkm",
+									"notePath": [
+										"RdDl7e9QaAxS",
+										"NXhQpMcrzXrV",
+										"VUFIK0DRAVIy",
+										"vWPGLlp4xrkm"
+									],
+									"title": "Кабинет 106",
+									"notePosition": 60,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Кабинет 106.html",
+									"attachments": []
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "o5XhvanvyRGg",
+							"notePath": [
+								"RdDl7e9QaAxS",
+								"NXhQpMcrzXrV",
+								"o5XhvanvyRGg"
+							],
+							"title": "2 этаж",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "2 этаж.html",
+							"attachments": [],
+							"dirFileName": "2 этаж",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "6SDHyb93FAQ2",
+									"notePath": [
+										"RdDl7e9QaAxS",
+										"NXhQpMcrzXrV",
+										"o5XhvanvyRGg",
+										"6SDHyb93FAQ2"
+									],
+									"title": "Кабинет 201",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Кабинет 201.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "Ao9tqWCuUIN9",
+									"notePath": [
+										"RdDl7e9QaAxS",
+										"NXhQpMcrzXrV",
+										"o5XhvanvyRGg",
+										"Ao9tqWCuUIN9"
+									],
+									"title": "Кабинет 202",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Кабинет 202.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "ZVaLlA1Bcls9",
+									"notePath": [
+										"RdDl7e9QaAxS",
+										"NXhQpMcrzXrV",
+										"o5XhvanvyRGg",
+										"ZVaLlA1Bcls9"
+									],
+									"title": "Кабинет 203",
+									"notePosition": 30,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Кабинет 203.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "g51TLiBlaKWl",
+									"notePath": [
+										"RdDl7e9QaAxS",
+										"NXhQpMcrzXrV",
+										"o5XhvanvyRGg",
+										"g51TLiBlaKWl"
+									],
+									"title": "Кабинет 204",
+									"notePosition": 40,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Кабинет 204.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "DDZKEJ1shb2u",
+									"notePath": [
+										"RdDl7e9QaAxS",
+										"NXhQpMcrzXrV",
+										"o5XhvanvyRGg",
+										"DDZKEJ1shb2u"
+									],
+									"title": "Кабинет 205",
+									"notePosition": 50,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Кабинет 205.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "yQcA1HIIaNSB",
+									"notePath": [
+										"RdDl7e9QaAxS",
+										"NXhQpMcrzXrV",
+										"o5XhvanvyRGg",
+										"yQcA1HIIaNSB"
+									],
+									"title": "Кабинет 206",
+									"notePosition": 60,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [],
+									"format": "html",
+									"dataFileName": "Кабинет 206.html",
+									"attachments": []
+								}
+							]
+						}
+					]
+				},
+				{
+					"isClone": false,
+					"noteId": "VP0QYQXj4XwV",
+					"notePath": [
+						"RdDl7e9QaAxS",
+						"VP0QYQXj4XwV"
+					],
+					"title": "Коммутаторы",
+					"notePosition": 30,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "Коммутаторы.html",
+					"attachments": []
+				},
+				{
+					"isClone": false,
+					"noteId": "rf2CebV9btVa",
+					"notePath": [
+						"RdDl7e9QaAxS",
+						"rf2CebV9btVa"
+					],
+					"title": "Патч-панели",
+					"notePosition": 40,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "Патч-панели.html",
+					"attachments": []
+				},
+				{
+					"isClone": false,
+					"noteId": "i0OQIK6kL0p6",
+					"notePath": [
+						"RdDl7e9QaAxS",
+						"i0OQIK6kL0p6"
+					],
+					"title": "Розетки",
+					"notePosition": 50,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "Розетки.html",
+					"attachments": [],
+					"dirFileName": "Розетки",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "jnfCbPfJnzwo",
+							"notePath": [
+								"RdDl7e9QaAxS",
+								"i0OQIK6kL0p6",
+								"jnfCbPfJnzwo"
+							],
+							"title": "R1",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "R1.html",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "Lp1sH4ecUbQD",
+							"notePath": [
+								"RdDl7e9QaAxS",
+								"i0OQIK6kL0p6",
+								"Lp1sH4ecUbQD"
+							],
+							"title": "R2",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "R2.html",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "myCkmKKzNU5i",
+							"notePath": [
+								"RdDl7e9QaAxS",
+								"i0OQIK6kL0p6",
+								"myCkmKKzNU5i"
+							],
+							"title": "R3",
+							"notePosition": 30,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "R3.html",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "WoDNjcQV3XHa",
+							"notePath": [
+								"RdDl7e9QaAxS",
+								"i0OQIK6kL0p6",
+								"WoDNjcQV3XHa"
+							],
+							"title": "R4",
+							"notePosition": 40,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "R4.html",
+							"attachments": []
+						}
+					]
+				},
+				{
+					"isClone": false,
+					"noteId": "rjqTD0gynL4X",
+					"notePath": [
+						"RdDl7e9QaAxS",
+						"rjqTD0gynL4X"
+					],
+					"title": "Магистрали и схема сети",
+					"notePosition": 60,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "Магистрали и схема сети.html",
+					"attachments": [],
+					"dirFileName": "Магистрали и схема сети",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "C0ucCo0UpKey",
+							"notePath": [
+								"RdDl7e9QaAxS",
+								"rjqTD0gynL4X",
+								"C0ucCo0UpKey"
+							],
+							"title": "R1 — R2",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "R1 — R2.html",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "qzeJeKEmhO1f",
+							"notePath": [
+								"RdDl7e9QaAxS",
+								"rjqTD0gynL4X",
+								"qzeJeKEmhO1f"
+							],
+							"title": "R1 — R3",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "R1 — R3.html",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "lf9K8vwYfDwx",
+							"notePath": [
+								"RdDl7e9QaAxS",
+								"rjqTD0gynL4X",
+								"lf9K8vwYfDwx"
+							],
+							"title": "R1 — R4",
+							"notePosition": 30,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "R1 — R4.html",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "z03YjUbdiFzJ",
+							"notePath": [
+								"RdDl7e9QaAxS",
+								"rjqTD0gynL4X",
+								"z03YjUbdiFzJ"
+							],
+							"title": "R3 — R4",
+							"notePosition": 40,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "R3 — R4.html",
+							"attachments": []
+						}
+					]
+				},
+				{
+					"isClone": false,
+					"noteId": "Z87AEmSXgaOT",
+					"notePath": [
+						"RdDl7e9QaAxS",
+						"Z87AEmSXgaOT"
+					],
+					"title": "Журнал работ",
+					"notePosition": 70,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "Журнал работ.html",
+					"attachments": [],
+					"dirFileName": "Журнал работ",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "2Xt3Plblfaab",
+							"notePath": [
+								"RdDl7e9QaAxS",
+								"Z87AEmSXgaOT",
+								"2Xt3Plblfaab"
+							],
+							"title": "Пример записи",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "Пример записи.html",
+							"attachments": []
+						}
+					]
+				},
+				{
+					"isClone": false,
+					"noteId": "DjIGtkZUoA46",
+					"notePath": [
+						"RdDl7e9QaAxS",
+						"DjIGtkZUoA46"
+					],
+					"title": "Шаблоны",
+					"notePosition": 80,
+					"prefix": null,
+					"isExpanded": true,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "Шаблоны.html",
+					"attachments": [],
+					"dirFileName": "Шаблоны",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "iaM1mnjjH2Ig",
+							"notePath": [
+								"RdDl7e9QaAxS",
+								"DjIGtkZUoA46",
+								"iaM1mnjjH2Ig"
+							],
+							"title": "Шаблон кабинета",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "template",
+									"value": "",
+									"isInheritable": false,
+									"position": 10
+								}
+							],
+							"format": "html",
+							"dataFileName": "Шаблон кабинета.html",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "CvLfvG6vVaPP",
+							"notePath": [
+								"RdDl7e9QaAxS",
+								"DjIGtkZUoA46",
+								"CvLfvG6vVaPP"
+							],
+							"title": "Шаблон шкафа",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "template",
+									"value": "",
+									"isInheritable": false,
+									"position": 10
+								}
+							],
+							"format": "html",
+							"dataFileName": "Шаблон шкафа.html",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "jeOWtQj0YBnf",
+							"notePath": [
+								"RdDl7e9QaAxS",
+								"DjIGtkZUoA46",
+								"jeOWtQj0YBnf"
+							],
+							"title": "Шаблон коммутатора",
+							"notePosition": 30,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "template",
+									"value": "",
+									"isInheritable": false,
+									"position": 10
+								}
+							],
+							"format": "html",
+							"dataFileName": "Шаблон коммутатора.html",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "A1s2HFE9INq7",
+							"notePath": [
+								"RdDl7e9QaAxS",
+								"DjIGtkZUoA46",
+								"A1s2HFE9INq7"
+							],
+							"title": "Шаблон патч-панели",
+							"notePosition": 40,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "template",
+									"value": "",
+									"isInheritable": false,
+									"position": 10
+								}
+							],
+							"format": "html",
+							"dataFileName": "Шаблон патч-панели.html",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "XdYfCcODgZav",
+							"notePath": [
+								"RdDl7e9QaAxS",
+								"DjIGtkZUoA46",
+								"XdYfCcODgZav"
+							],
+							"title": "Шаблон розетки",
+							"notePosition": 50,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "template",
+									"value": "",
+									"isInheritable": false,
+									"position": 10
+								}
+							],
+							"format": "html",
+							"dataFileName": "Шаблон розетки.html",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "6h7eJTay6NEW",
+							"notePath": [
+								"RdDl7e9QaAxS",
+								"DjIGtkZUoA46",
+								"6h7eJTay6NEW"
+							],
+							"title": "Шаблон магистрали",
+							"notePosition": 60,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "template",
+									"value": "",
+									"isInheritable": false,
+									"position": 10
+								}
+							],
+							"format": "html",
+							"dataFileName": "Шаблон магистрали.html",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "uJv5h7JJFkKm",
+							"notePath": [
+								"RdDl7e9QaAxS",
+								"DjIGtkZUoA46",
+								"uJv5h7JJFkKm"
+							],
+							"title": "Шаблон работы",
+							"notePosition": 70,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "template",
+									"value": "",
+									"isInheritable": false,
+									"position": 10
+								}
+							],
+							"format": "html",
+							"dataFileName": "Шаблон работы.html",
+							"attachments": []
+						}
+					]
+				},
+				{
+					"isClone": false,
+					"noteId": "vmX2exXQLf6c",
+					"notePath": [
+						"RdDl7e9QaAxS",
+						"vmX2exXQLf6c"
+					],
+					"title": "Новая заметка",
+					"notePosition": 90,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [
+						{
+							"type": "relation",
+							"name": "template",
+							"value": "iaM1mnjjH2Ig",
+							"isInheritable": false,
+							"position": 10
+						}
+					],
+					"format": "html",
+					"dataFileName": "Новая заметка.html",
+					"attachments": []
+				}
+			]
+		},
+		{
+			"noImport": true,
+			"dataFileName": "icon-color.svg"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/Inter-VariableFont_opsz_wght-BrXsWJWV.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/JetBrainsMono-Light-BL81f-mh.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_AMS-Regular-BQhdFMY1.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Caligraphic-Bold-Dq_IR9rO.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Caligraphic-Regular-Di6jR-x-.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Fraktur-Bold-CL6g_b3V.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Fraktur-Regular-CTYiF6lA.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Bold-Cx986IdX.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-BoldItalic-DxDJ3AOS.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Italic-NWA7e6Wa.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Regular-B22Nviop.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Math-BoldItalic-CZnvNsCZ.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Math-Italic-t53AETM-.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Bold-D1sUS0GD.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Italic-C3H0VqGB.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Regular-DDBCnlJ7.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Script-Regular-D3wIWfF6.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size1-Regular-mCD8mA8B.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size2-Regular-Dy4dx90m.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size4-Regular-Dl5lxZxV.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Typewriter-Regular-CO6r4hn1.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/auto-render-D8Mhw2PE.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/auto-render-DphpWLVD.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/fuse-BJU2MBW5.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/katex-vYDvafyF.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/link_embed_dom-CF_MTVxC.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/mermaid-ZW-L5LbW.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/mermaid_config-D65YE9OC.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/mhchem-CvvW2u4C.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/mhchem-DDlx08s5.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/preload-helper-CRzLMJPS.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/scripts.css"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/scripts.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/table_sticky_header_read_only-DbZsoOeL.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/tabs_read_only-CtKM0Bun.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/tree.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/utils-CqLYfnjJ.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "index.html"
+		}
+	]
+}
